@@ -5,7 +5,7 @@
 Projeto desenvolvido para a disciplina IMD0522 - Jogos Digitais como Ferramenta Pedagógica (2024.2) na Universidade Federal do Rio Grande do Norte (UFRN).
 
 ## 📖 Sinopse
-O jogo retrata o cotidiano de uma sociedade tribal em um futuro pós-apocalíptico[cite: 1]. Para alcançar a maturidade, os membros devem realizar um rito de passagem: entrar em uma sala-bunker do antigo mundo tecnológico e enfrentar uma inteligência artificial militar que descumpre as duas primeiras leis de Asimov ("um robô não pode ferir um humano" e "os robôs devem obedecer às ordens dos humanos")[cite: 1]. O objetivo do protagonista é, através de tentativa e erro, completar o desafio da máquina para desativar a terceira lei ("um robô deve proteger sua própria existência") e abrir a porta que tranca a comunidade na prisão-estufa.
+O jogo retrata o cotidiano de uma sociedade tribal em um futuro pós-apocalíptico[cite: 1]. Para alcançar a maturidade, os membros devem realizar um rito de passagem: entrar em uma sala-bunker do antigo mundo tecnológico e enfrentar uma inteligência artificial militar que descumpre as duas primeiras leis de Asimov ("um robô não pode ferir um humano" e "os robôs devem obedecer às ordens dos humanos"). O objetivo do protagonista é, através de tentativa e erro, completar o desafio da máquina para desativar a terceira lei ("um robô deve proteger sua própria existência") e abrir a porta que tranca a comunidade na prisão-estufa.
 
 ## ✨ Mecânicas e Características
 * **Gênero:** RPG, Fantasia, educativo, narrativo, estratégia[cite: 1].
