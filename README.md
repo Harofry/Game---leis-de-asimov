@@ -30,7 +30,7 @@ O jogo retrata o cotidiano de uma sociedade tribal em um futuro pós-apocalípti
 ## 🚀 Como Jogar
 1. Faça o download dos arquivos do jogo através do nosso repositório no Google Drive: [Download via Google Drive](https://drive.google.com/drive/u/0/folders/1UV51wTc0H92MB9i7J9um2BKmWjMUPYBW)
 2. Extraia o arquivo baixado em uma pasta de sua preferência.
-3. Execute o arquivo principal do jogo (ex: `game leis de Asimov.exe`).
+3. Execute o arquivo principal do jogo (`game leis de Asimov.exe`).
 
 ## 📸 Capturas de Tela
 *(Adicione aqui imagens do mapa da vila, do HUD e da sala da IA para ilustrar a página)*
