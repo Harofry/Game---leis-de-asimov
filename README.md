@@ -84,6 +84,7 @@ O jogo retrata o cotidiano de uma sociedade tribal em um futuro pós-apocalípti
     </td>
   </tr>
 </table>
+
 ## 🛠️ Equipe de Desenvolvimento
 * **Gabriel Giulian:** Game Designer e Desenvolvedor
 * **Caio Gabriel:** Ilustrador / Concept e Desenvolvedor
