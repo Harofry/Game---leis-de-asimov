@@ -10,7 +10,7 @@ Tem como proposito o ensino da geopolítica contemporânea para alunos do fundam
 O jogo retrata o cotidiano de uma sociedade tribal em um futuro pós-apocalíptico[cite: 1]. Para alcançar a maturidade, os membros devem realizar um rito de passagem: entrar em uma sala-bunker do antigo mundo tecnológico e enfrentar uma inteligência artificial militar que descumpre as duas primeiras leis de Asimov ("um robô não pode ferir um humano" e "os robôs devem obedecer às ordens dos humanos"). O objetivo do protagonista é, através de tentativa e erro, completar o desafio da máquina para desativar a terceira lei ("um robô deve proteger sua própria existência") e abrir a porta que tranca a comunidade na prisão-estufa.
 
 ## ✨ Mecânicas e Características
-* **Gênero:** RPG, Fantasia, educativo, narrativo, estratégia[cite: 1].
+* **Gênero:** RPG, Fantasia, educativo, narrativo, estratégia.
 * **Sistema de Escolhas:** Diálogos com NPCs e um rival que definem a visão de mundo do jogador no universo[cite: 1].
 * **Recrutamento de Equipe:** É possível recrutar a irmã do protagonista, o rival e o mascote da tribo (cachorro) para auxiliar na gameplay e trazer dinamicidade aos combates[cite: 1].
 * **Finais Múltiplos:** Escolha entre destruir a IA e viver em paz na estufa, ou reprogramá-la para servir como um guia de conhecimento ilimitado para o povo[cite: 1].
