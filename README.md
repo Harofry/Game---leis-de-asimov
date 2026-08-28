@@ -34,19 +34,30 @@ O jogo retrata o cotidiano de uma sociedade tribal em um futuro pós-apocalípti
 2. Extraia o arquivo baixado em uma pasta de sua preferência.
 3. Execute o arquivo principal do jogo (`game leis de Asimov.exe`).
 
-## 📸 Capturas de Tela
+<div align="center">
+  <img src="Game%20result%200.jpg" width="400" alt="Lenda Antiga">
+  <img src="Game%20result%202.jpg" width="400" alt="Diálogo Kaya">
+</div>
 
 <div align="center">
-  <img src="img/batalha_boss.png" width="400" alt="Batalha contra o Boss">
-  <img src="img/dialogo_brics.png" width="400" alt="Diálogo com BRICS">
+  <img src="Game%20result%203%20.jpg" width="400" alt="Ruínas Tecnológicas">
+  <img src="Game%20result%204.jpg" width="400" alt="Terceira Lei de Asimov">
 </div>
-<p align="center"><em>Batalhas estratégicas em turnos e recrutamento de aliados como BRICS, Kaya e David.</em></p>
 
 <div align="center">
-  <img src="img/cidade_elpizen.png" width="400" alt="Cidade de Elpizen">
-  <img src="img/enigmas_historia.png" width="400" alt="Enigmas Históricos">
+  <img src="Game%20result%205.jpg" width="400" alt="Dica Histórica Pearl Harbor">
+  <img src="Game%20result%2006.jpg" width="400" alt="Diálogo BRICS">
 </div>
-<p align="center"><em>Exploração da Cidade de Elpizen e integração de eventos históricos reais (Segunda Guerra Mundial, Guerra Fria, Blocos Econômicos) aos enigmas da IA Hall-9001.</em></p>
+
+<div align="center">
+  <img src="Game%20result%206.jpg" width="400" alt="Equipe Reunida">
+  <img src="Game%20result%207%20.jpg" width="400" alt="Batalha Hall-9001">
+</div>
+
+<div align="center">
+  <img src="Game%20result%208.jpg" width="400" alt="Enigma Hall-9001">
+  <img src="Game%20result%209.jpg" width="400" alt="Fim de Jogo">
+</div>/em></p>
 
 ## 🛠️ Equipe de Desenvolvimento
 * **Gabriel Giulian:** Game Designer
