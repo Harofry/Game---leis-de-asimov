@@ -11,9 +11,9 @@ O jogo retrata o cotidiano de uma sociedade tribal em um futuro pós-apocalípti
 
 ## ✨ Mecânicas e Características
 * **Gênero:** RPG, Fantasia, educativo, narrativo, estratégia.
-* **Sistema de Escolhas:** Diálogos com NPCs e um rival que definem a visão de mundo do jogador no universo[cite: 1].
-* **Recrutamento de Equipe:** É possível recrutar a irmã do protagonista, o rival e o mascote da tribo (cachorro) para auxiliar na gameplay e trazer dinamicidade aos combates[cite: 1].
-* **Finais Múltiplos:** Escolha entre destruir a IA e viver em paz na estufa, ou reprogramá-la para servir como um guia de conhecimento ilimitado para o povo[cite: 1].
+* **Sistema de Escolhas:** Diálogos com NPCs e um rival que definem a visão de mundo do jogador no universo.
+* **Recrutamento de Equipe:** É possível recrutar a irmã do protagonista, o rival e o mascote da tribo (cachorro) para auxiliar na gameplay e trazer dinamicidade aos combates.
+* **Finais Múltiplos:** Escolha entre destruir a IA e viver em paz na estufa, ou reprogramá-la para servir como um guia de conhecimento ilimitado para o povo.
 * **Engine:** RPG Maker MV.
 
 ## 👥 Personagens Principais
@@ -85,5 +85,5 @@ O jogo retrata o cotidiano de uma sociedade tribal em um futuro pós-apocalípti
   </tr>
 </table>
 ## 🛠️ Equipe de Desenvolvimento
-* **Gabriel Giulian:** Game Designer
-* **Caio Gabriel:** Ilustrador / Concept
+* **Gabriel Giulian:** Game Designer e Desenvolvedor
+* **Caio Gabriel:** Ilustrador / Concept e Desenvolvedor
