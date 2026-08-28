@@ -35,28 +35,28 @@ O jogo retrata o cotidiano de uma sociedade tribal em um futuro pós-apocalípti
 3. Execute o arquivo principal do jogo (`game leis de Asimov.exe`).
 
 <div align="center">
-  <img src="img0.jpg" width="400" alt="Lenda Antiga">
-  <img src="img2.jpg" width="400" alt="Diálogo Kaya">
+  <img src="img/img0.jpg.png" width="400" alt="Lenda Antiga">
+  <img src="img/img2.jpg.png" width="400" alt="Diálogo Kaya">
 </div>
 
 <div align="center">
-  <img src="img3.jpg" width="400" alt="Ruínas Tecnológicas">
-  <img src="img4.jpg" width="400" alt="Terceira Lei de Asimov">
+  <img src="img/img3.jpg.png" width="400" alt="Ruínas Tecnológicas">
+  <img src="img/img4.jpg.png" width="400" alt="Terceira Lei de Asimov">
 </div>
 
 <div align="center">
-  <img src="img5.jpg" width="400" alt="Dica Histórica Pearl Harbor">
-  <img src="img06.jpg" width="400" alt="Diálogo BRICS">
+  <img src="img/img5.jpg.png" width="400" alt="Dica Histórica Pearl Harbor">
+  <img src="img/img06.jpg.png" width="400" alt="Diálogo BRICS">
 </div>
 
 <div align="center">
-  <img src="img6.jpg" width="400" alt="Equipe Reunida">
-  <img src="img7.jpg" width="400" alt="Batalha Hall-9001">
+  <img src="img/img6.jpg.png" width="400" alt="Equipe Reunida">
+  <img src="img/img7.jpg.png" width="400" alt="Batalha Hall-9001">
 </div>
 
 <div align="center">
-  <img src="img8.jpg" width="400" alt="Enigma Hall-9001">
-  <img src="img9.jpg" width="400" alt="Fim de Jogo">
+  <img src="img/img8.jpg.png" width="400" alt="Enigma Hall-9001">
+  <img src="img/img9.jpg.png" width="400" alt="Fim de Jogo">
 </div>
 
 ## 🛠️ Equipe de Desenvolvimento
