@@ -35,9 +35,18 @@ O jogo retrata o cotidiano de uma sociedade tribal em um futuro pós-apocalípti
 3. Execute o arquivo principal do jogo (`game leis de Asimov.exe`).
 
 ## 📸 Capturas de Tela
-*(Adicione aqui imagens do mapa da vila, do HUD e da sala da IA para ilustrar a página)*
-* `![Nome da Imagem](link-da-imagem.png)`
-* `![Nome da Imagem](link-da-imagem.png)`
+
+<div align="center">
+  <img src="img/batalha_boss.png" width="400" alt="Batalha contra o Boss">
+  <img src="img/dialogo_brics.png" width="400" alt="Diálogo com BRICS">
+</div>
+<p align="center"><em>Batalhas estratégicas em turnos e recrutamento de aliados como BRICS, Kaya e David.</em></p>
+
+<div align="center">
+  <img src="img/cidade_elpizen.png" width="400" alt="Cidade de Elpizen">
+  <img src="img/enigmas_historia.png" width="400" alt="Enigmas Históricos">
+</div>
+<p align="center"><em>Exploração da Cidade de Elpizen e integração de eventos históricos reais (Segunda Guerra Mundial, Guerra Fria, Blocos Econômicos) aos enigmas da IA Hall-9001.</em></p>
 
 ## 🛠️ Equipe de Desenvolvimento
 * **Gabriel Giulian:** Game Designer
